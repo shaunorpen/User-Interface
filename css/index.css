@@ -108,3 +108,38 @@ h2 {
 	width: 900px;
 	padding: 40px 0px;
 }
+
+.jumbotronLeft {
+	width: 450px;
+	height: 450px;
+	display: inline-block;
+	text-align: center;
+	/* background-color: grey; */
+	vertical-align: top;
+	padding-top: 80px;
+}
+
+.jumbotronRight {
+	width: 450px;
+	height: 450px;
+	display: inline-block;
+	/* background-color: green; */
+	text-align: center;
+	padding-top: 40px;
+}
+
+.callToAction {
+	border-bottom: 1px solid black;
+	/* background-color: black; */
+}
+
+h1 {
+	font-size: 80px;
+	margin-bottom: 20px;
+}
+
+.callToAction a {
+	border: 1px solid black;
+	padding: 5px 40px;
+	text-decoration: none;
+}
