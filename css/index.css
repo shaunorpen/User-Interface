@@ -142,4 +142,15 @@ h1 {
 	border: 1px solid black;
 	padding: 5px 40px;
 	text-decoration: none;
+	color: inherit;
+}
+
+nav a {
+	padding-right: 35px;
+	text-decoration:none;
+	color:grey;
+}
+
+nav img {
+	padding-left: 185px;
 }
