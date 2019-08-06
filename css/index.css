@@ -65,3 +65,46 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+body {
+	background-color: black;
+}
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
+	padding: 20px 60px 60px 60px;
+	background-color: white;
+}
+
+.twoColumn {
+	width: 450px;
+	display: inline-block;
+}
+
+.threeColumn {
+	width: 298px;
+	display: inline-block;
+}
+
+.footer {
+	text-align:center;
+}
+
+address {
+	margin-bottom: 10px;
+}
+
+h2 {
+	margin-top: 10px;
+}
+
+.contact {
+	margin-top: 30px;
+	border-top: 1px solid black;
+	padding-top: 30px;
+}
+
+.middle-img {
+	width: 900px;
+	padding: 40px 0px;
+}
